@@ -38,7 +38,7 @@ News app allows its user to be able to see latest breaking news and articles all
 
 ### Architecture
 
-##### - Model-View-Controller (MVVM)
+##### - Model-View-Controller (MVVM) + Coordinators
 
 
 

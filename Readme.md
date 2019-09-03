@@ -1,6 +1,5 @@
 # News App 📰
-
-News app allows its user to be able to see latest breaking news and articles all around the world. In addition , every user has it own personal newspaper which will gives the possibility of browsing different categories based on the user interest.Furthermore , all articles could be saved in order to be read again later.
+News app allows its user to be able to see latest breaking news and articles all around the world. In addition , every user has its own personal newspaper which gives the possibility of browsing different categories based on the user interest.Furthermore , all articles could be saved in order to be read again later.
 
 
 
